@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1684" height="1190" viewBox="0 0 842 595">
+<rect width="842" height="595" fill="#ffffff"/>
+<rect x="0" y="0" width="842" height="8" fill="#4f46e5"/>
+<rect x="26" y="26" width="790" height="543" rx="4" fill="none" stroke="#e2e8f0"/>
+<g font-family="DejaVu Sans,sans-serif" fill="#0f172a">
+<text x="62" y="77" font-size="14" font-weight="bold" letter-spacing="2">ACADEMIA VE</text>
+<text x="62" y="104" font-size="10" fill="#64748b">FORMACIÓN Y DESARROLLO PROFESIONAL</text>
+<text x="421" y="171" font-size="31" font-weight="bold" text-anchor="middle">Certificado de formación</text>
+<text x="421" y="222" font-size="12" fill="#64748b" text-anchor="middle">Se reconoce la participación de</text>
+<text x="421" y="326" font-size="12" fill="#64748b" text-anchor="middle">por completar satisfactoriamente el programa</text>
+<text x="152" y="412" font-size="9" fill="#64748b" letter-spacing="1">DURACIÓN</text>
+<text x="152" y="469" font-size="9" fill="#64748b" letter-spacing="1">FECHA DE EMISIÓN</text>
+<text x="592" y="469" font-size="9" fill="#64748b" text-anchor="middle" letter-spacing="1">CÓDIGO DE VERIFICACIÓN</text>
+<line x1="62" y1="539" x2="780" y2="539" stroke="#e2e8f0"/>
+<text x="421" y="558" font-size="8" fill="#64748b" text-anchor="middle">Documento verificable mediante su código en la plataforma educativa</text>
+</g></svg>
